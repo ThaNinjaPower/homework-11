@@ -1,0 +1,29 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note Taker app can allow user to add edit, or delete notes.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "jsdom": "^16.2.2",
+    "nodeQuery": "^0.0.9-1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaNinjaPower/homework-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaNinjaPower/homework-11/issues"
+  },
+  "homepage": "https://github.com/ThaNinjaPower/homework-11#readme"
+}
