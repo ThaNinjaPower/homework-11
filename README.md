@@ -10,9 +10,6 @@ This note taker app allows the user to add notes, view notes, and delete notes.
 * [Credits](#credits)
 * [License](#license)
 * [Contributing](#contributing)
-* [Github Profile Pic URL](#github-profile-pic-url)
-* [Github Email](#github-email)
-
 
 ## Installation Instructions
 
